@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task7_NumberSequence\Task7_NumberSequence\bin\Debug\Task7_NumberSequence.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task7_NumberSequence\Task7_NumberSequence\bin\Debug\Task7_NumberSequence.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task7_NumberSequence\Task7_NumberSequence\bin\Debug\Task7_NumberSequence.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task7_NumberSequence\Task7_NumberSequence\obj\Debug\Task7_NumberSequence.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task7_NumberSequence\Task7_NumberSequence\obj\Debug\Task7_NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task7_NumberSequence\Task7_NumberSequence\obj\Debug\Task7_NumberSequence.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task7_NumberSequence\Task7_NumberSequence\obj\Debug\Task7_NumberSequence.pdb
